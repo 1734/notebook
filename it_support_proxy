@@ -1,0 +1,22 @@
+Please go through the following steps to set up OKTA verify first. 
+
+1. Go to https://synopsys.okta.com/enduser/settings (this website can be accessed outside Synopsys network)
+2. Click on Edit Profile, login with your windows username and password if prompted
+3. Scroll down to "Extra Verification" Section, locate Okta Verify Mobile App and click Setup.
+4. On the Setup Okta Verify screen, select the mobile device type icon (iOS, Android, or Windows Mobile) and click Next to continue.
+5. On your mobile device, open the app store.
+o On an iOS device, open the Apple App Store.
+o On an Android device, open the Google Play Store.
+6. Search for and install Okta Verify app. (Make sure it is NOT Okta Mobile app.)
+7. Open the Okta Verify app.
+8. On the Welcome to Okta Verify screen, tap Add Account.
+9. Hold your device up to the computer screen and scan the barcode that is shown on your Okta site.
+10. Click Done in the web browser to complete enrollment. 
+
+For how to use, please read and follow this article. (click on the link again if it directs you to the myIT homepage)
+
+Connect to VPN (Pulse Secure or Juno Pulse) with Okta Verify 
+https://synopsys-myit.onbmc.com/ux/myitapp/#/knowledge/KBA00000552 
+
+Connecting to Citrix with Okta Verify
+https://synopsys-myit.onbmc.com/ux/myitapp/#/knowledge/KBA00000506
